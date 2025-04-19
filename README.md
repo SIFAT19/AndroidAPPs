@@ -1,19 +1,16 @@
-# 📱 Android Development Hub
+# routine_app
 
-Welcome to the **Android Development Hub** repository! This repository is a collection of all important files, projects, and resources related to Android development. Whether you're a beginner or an experienced developer, you’ll find reusable components, templates, and project files here to speed up your Android development journey.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Main Purpose
+This project is a starting point for a Flutter application.
 
-This repository serves as a **centralized place** to store and manage all Android development files. It includes:
+A few resources to get you started if this is your first Flutter project:
 
-- Source code of Android apps
-- UI/UX design layouts (XML)
-- Kotlin/Java activity files
-- Dependencies and Gradle configurations
-- Reusable code snippets
-- Project templates
-- Useful libraries and integration examples
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
